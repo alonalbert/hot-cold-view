@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="HotColdView">
+    <attr name="hotColor" format="color" />
+    <attr name="coldColor" format="color" />
+  </declare-styleable>
+</resources>
